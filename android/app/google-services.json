@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243696452512",
+    "project_id": "firestorelat",
+    "storage_bucket": "firestorelat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243696452512:android:73b71c975a7b7e30a55ac5",
+        "android_client_info": {
+          "package_name": "com.aisyahhstore.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243696452512-5ps4r4p98paelli6ksalu2fso7mnh514.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0IK1rxGeCgpaD-L1k01_zoqkR4USuKXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243696452512-5ps4r4p98paelli6ksalu2fso7mnh514.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
